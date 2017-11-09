@@ -4,6 +4,7 @@
 ## Usage
 
 ```
+- register an app at https://developers.facebook.com/
 - git clone <repo>
 - npm install
 - npm start
